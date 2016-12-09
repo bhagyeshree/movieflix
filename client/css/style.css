@@ -1,0 +1,28 @@
+
+.container{
+    background-color: black;
+
+
+}
+
+body{
+    background-color: #0f0f0f;
+}
+
+
+
+
+
+.row{
+    width:100%;
+    .post {
+        width:14%
+        float: left;
+        margin-right: 2.5%;
+        img{
+            width:100%;
+            max-width:100%;
+            border-radius: .5em;
+        }
+    }
+}
